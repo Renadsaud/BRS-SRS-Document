@@ -45,11 +45,14 @@ It also serves various groups: individuals, the business sector, government agen
 
 - And because the system requirements are all mentioned, they do not change continuously and suddenly.
 <br/>
-- The scope of the project is well-defined.
+ - The scope of the project is well-defined.
 <br/>
-- Because the project 
+ - Because the project 
 <br/>
 
+<div>
+   <img src="https://i.ibb.co/LDF1Z0H/image.jpg" alt="image" border="0">
+   
 # Characteristics :
 • Create an application or site that benefits the ministry, users and society
 <br/>
@@ -58,4 +61,4 @@ It also serves various groups: individuals, the business sector, government agen
 • Project planning and management to achieve goals according to specifications
 <br/>
 
-# For more detels chick the PDF
+# For more details please check the PDF
