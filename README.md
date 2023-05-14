@@ -42,7 +42,7 @@ It also serves various groups: individuals, the business sector, government agen
 
 # Software Development Life Cycle:
  - After reading the project requirements and analyzing them in detail, we found that the best option for implementing the project is a waterfall model because the project is affiliated with the Ministry and its requirements are clearly and accurately stated by the Ministry.
-
+ <br/>
 - And because the system requirements are all mentioned, they do not change continuously and suddenly.
 <br/>
 - The scope of the project is well defined.
