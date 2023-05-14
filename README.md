@@ -45,11 +45,10 @@ It also serves various groups: individuals, the business sector, government agen
 
 - And because the system requirements are all mentioned, they do not change continuously and suddenly.
 <br/>
- - The scope of the project is well-defined.
+- The scope of the project is well defined.
 <br/>
- - Because the project 
+- Because the project requires a good quality.
 <br/>
-
 <div>
    <img src="https://i.ibb.co/LDF1Z0H/image.jpg" alt="image" border="0">
    
